@@ -1,0 +1,22 @@
+{
+  "name": "buildproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir build",
+    "delete": "rd build",
+    "say": "echo Hello World!" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/buildProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/buildProject/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/buildProject#readme"
+}
